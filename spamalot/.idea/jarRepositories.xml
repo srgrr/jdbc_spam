@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="thirdparty.jboss.org" />
+      <option name="name" value="JBoss - Third Party Repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/thirdparty-releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="HDPRehosted" />
+      <option name="name" value="HDPRehosted" />
+      <option name="url" value="http://repo.hortonworks.com/content/repositories/re-hosted/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="repository.mulesoft.org" />
+      <option name="name" value="Mulesoft - Public Repository" />
+      <option name="url" value="https://repository.mulesoft.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="repository.jboss.org" />
+      <option name="name" value="JBoss - Releases Repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="deprecated.jboss.org" />
+      <option name="name" value="JBoss - Deprecated Repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/deprecated/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="HDPReleases" />
+      <option name="name" value="HDPReleases" />
+      <option name="url" value="http://repo.hortonworks.com/content/repositories/releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="kinetica-releases" />
+      <option name="name" value="kinetica-releases" />
+      <option name="url" value="http://files.kinetica.com/nexus/content/repositories/releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="xentral" />
+      <option name="name" value="libs-release" />
+      <option name="url" value="https://repo.streamsets.net/artifactory/libs-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="xnapshots" />
+      <option name="name" value="libs-snapshot" />
+      <option name="url" value="https://repo.streamsets.net/artifactory/libs-snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="confluent" />
+      <option name="name" value="confluent" />
+      <option name="url" value="http://packages.confluent.io/maven/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="HDPJetty" />
+      <option name="name" value="HDPJetty" />
+      <option name="url" value="http://repo.hortonworks.com/content/repositories/jetty-hadoop/" />
+    </remote-repository>
+  </component>
+</project>
